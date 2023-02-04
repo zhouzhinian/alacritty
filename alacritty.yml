@@ -42,14 +42,14 @@ font:
   size: 15
  
   normal:
-    family: JetBrainsMono Nerd Font
+    family: Monaco
     style: Regular
  
   bold:
-    family: JetBrainsMono Nerd Font
+    family: Monaco
  
   italic:
-    family: JetBrainsMono Nerd Font
+    family: Monaco
  
 cursor:
   style: underline
