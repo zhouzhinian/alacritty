@@ -42,16 +42,16 @@ font:
   size: 15
  
   normal:
-    family: Monaco
+    family: Source Code Pro 
     style: Regular
  
   bold:
-    family: Monaco
+    family: Source Code Pro 
  
   italic:
-    family: Monaco
+    family: Source Code Pro 
  
 cursor:
-  style: underline
+  style: Block
 
 
