@@ -1,6 +1,6 @@
 [general]
 import = [
-    "~/.config/alacritty/themes/themes/tokyo_night_enhanced.toml"
+    "~/.config/alacritty/themes/tokyo_night_enhanced.toml"
 ]
 
 live_config_reload = true
