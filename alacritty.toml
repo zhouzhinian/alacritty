@@ -1,0 +1,31 @@
+[general]
+import = [
+    "~/.config/alacritty/themes/themes/tokyo_night_enhanced.toml"
+]
+
+live_config_reload = true
+
+[window]
+dimensions = { columns = 120, lines = 30 }
+padding = { x = 10, y = 10 }
+dynamic_padding = true
+decorations = "Transparent" 
+opacity = 0.85
+blur = false
+startup_mode = "Windowed"
+
+dynamic_title = true
+class = { instance = "Alacritty", general = "Alacritty" }
+
+[scrolling]
+history = 10000
+multiplier = 4
+
+[font]
+normal = { family = "JetBrains Mono", style = "Regular" }
+size = 18
+
+[selection]
+semantic_escape_chars = ",│`|:\"' ()[]{}<>\t"
+save_to_clipboard = true
+
